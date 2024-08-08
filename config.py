@@ -11,11 +11,11 @@ API_ID = "28612368"
 API_HASH = "3c23eaafcecfa70d11001dba6537b0fc"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7322404139:AAF3B0lHXduZwOzVzmpZK2DrPUbqYMfp0rA"
+BOT_TOKEN = "7242981465:AAG5keMrdOrO6-0wGnKoeD60f5DIrwXsB38"
 
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "mongodb+srv://jekishwb:UanCz9S-ycA@cluster0.tsytm.mongodb.net/?retryWrites=true&w=majority"
+MONGO_DB_URI = "mongodb+srv://Yash_607:Yash_607@cluster0.r3s9sbo.mongodb.net/?retryWrites=true&w=majority"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 180))
 
